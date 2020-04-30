@@ -1,0 +1,4 @@
+<!--pages/lib/lib.wxml-->
+<view class="container">
+  <image class="bgbformat" src="https://6875-huhubqb-yo7ib-1301903596.tcb.qcloud.la/doudou/FB83FE55-F90C-4E17-AA2D-8E385BE3BB87_1_105_c.jpeg?sign=24bf63fc9121951ce9648f13d97c7869&t=1587464175" mode="aspectFit"></image>
+</view>

@@ -1,0 +1,43 @@
+/**index.wxss**/
+.userinfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.userinfo-avatar {
+  width: 128rpx;
+  height: 128rpx;
+  margin: 20rpx;
+  border-radius: 50%;
+}
+
+.userinfo-nickname {
+  color: #aaa;
+}
+
+.usermotto {
+  margin-top: 90px;
+}
+
+.button_check{
+  background-color: rgb(243, 139, 144);
+  color: rgb(0, 0, 0);
+  width: 80%;
+  border-radius: 98rpx;
+  margin: 40rpx;
+}
+.button_upload{
+  background-color: rgb(139, 243, 148);
+  color: rgb(0, 0, 0);
+  width: 80%;
+  border-radius: 98rpx;
+  margin: -10rpx;
+}
+.button_camera{
+  background-color: rgb(124, 122, 240);
+  color: rgb(0, 0, 0);
+  width: 80%;
+  border-radius: 98rpx;
+  margin: 40rpx;
+}

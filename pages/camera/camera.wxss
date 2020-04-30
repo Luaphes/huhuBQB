@@ -1,0 +1,23 @@
+/* pages/camera/camera.wxss */
+  .camera{
+    width: 100vw;
+    height: 80vh;
+  }
+  /* .record{
+    position: fixed;
+    bottom: 10rpx;
+    left: 0;
+    right: 0;
+    width: 0rpx;
+    height: 120rpx;
+    margin-bottom: 2.5em;
+    margin: 50rpx auto; 
+    border-radius: 50%;
+  } */
+  .record{
+    background-color: rgb(124, 122, 240);
+    color: rgb(0, 0, 0);
+    width: 80%;
+    border-radius: 98rpx;
+    margin: 40rpx;
+  }
